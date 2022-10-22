@@ -13,9 +13,10 @@ class Assets {
   Assets._();
 
   static const AssetGenImage iu = AssetGenImage('assets/iu.jpeg');
+  static const String logo = 'assets/logo.ico';
 
   /// List of all assets
-  List<AssetGenImage> get values => [iu];
+  List<dynamic> get values => [iu, logo];
 }
 
 class AssetGenImage {
