@@ -18,7 +18,7 @@ dart fix --apply
 
 ## 5. flutter_gen
 - [링크](https://pub.dev/packages/flutter_gen)
-  dev_dependencies
+dev_dependencies
   build_runner:
   flutter_gen_runner:
 ~~~
