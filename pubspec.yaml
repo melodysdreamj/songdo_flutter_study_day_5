@@ -40,6 +40,12 @@ dependencies:
   flutter_gen: ^5.0.3
   flutter_screenutil: ^5.5.4
 
+  cached_network_image:
+  font_awesome_flutter:
+  flutter_font_icons:
+  flutter_statusbarcolor_ns:
+
+  tmdb_api: ^2.1.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
