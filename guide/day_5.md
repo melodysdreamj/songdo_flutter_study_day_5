@@ -60,3 +60,5 @@ flutter packages pub run build_runner build
 - [링크](https://danielkim88.notion.site/5-Netflix-973dd31ae4aa4b029fada20b201dfd6a)
 
 
+FGBGNotifier
+
